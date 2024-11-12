@@ -1,0 +1,49 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Database files
+*.db
+*.sqlite3
+
+# Static and media files
+static/
+media/
+
+# FastAPI generated files
+*.cache
+*.pid
+
+# Jupyter Notebook checkpoints (if any notebooks are used)
+.ipynb_checkpoints/

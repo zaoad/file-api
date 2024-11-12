@@ -1,0 +1,6 @@
+fastapi==0.95.2          # Core FastAPI framework
+pydantic==1.10.2         # Data validation and settings management
+python-dotenv==1.0.0     # For loading environment variables from .env
+loguru==0.6.0            # Enhanced logging
+python-multipart==0.0.5  # For handling file uploads
+uvicorn==0.22.0
